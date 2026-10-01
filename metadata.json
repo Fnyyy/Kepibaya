@@ -1,0 +1,6 @@
+{
+  "name": "Masbro Spotter - Capybara Sanctuary & Sighting",
+  "description": "Temukan & pantau Masbro Roy serta capybara lainnya di pemandian onsen dan habitat ramah dengan Chill-o-Meter interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
